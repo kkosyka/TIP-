@@ -1,10 +1,5 @@
 # TIP-
 
-# fantastic-umbrella
-
-# fuzzy-lamp
-other computer science related works
-
 # Pre-work - TIP$
 
 TIP$ is a tip calculator application for iOS.
